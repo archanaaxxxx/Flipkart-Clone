@@ -26,7 +26,7 @@ function goCart(){
     window.location.href = "cart.html";
 }
 function goLogin(){
-    window.location.href = "login.html";
+    window.location.href = "HTML/login.html";
 }
 function openLaptop() {
     window.location.href = "search.html";
