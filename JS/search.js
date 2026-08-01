@@ -1,6 +1,6 @@
 // Login Button
 document.querySelector(".login").addEventListener("click", function () {
-    window.location.href = "login.html";
+    window.location.href = "HTML/login.html";
 });
 
 // Search Button
@@ -22,7 +22,7 @@ function searchProduct() {
 
         alert("Showing Laptop Results");
 
-        window.location.href = "search.html";
+        window.location.href = "HTML/search.html";
 
     }
 
@@ -66,6 +66,6 @@ sort.forEach(function(item){
 });
 function openProduct(){
 
-    window.location.href = "product.html";
+    window.location.href = "HTML/product.html";
 
 }
