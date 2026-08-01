@@ -29,5 +29,5 @@ function goLogin(){
     window.location.href = "HTML/login.html";
 }
 function openLaptop() {
-    window.location.href = "search.html";
+    window.location.href = "HTML/search.html";
 }
