@@ -57,7 +57,7 @@ search.addEventListener("keypress", function (e) {
 
         if (value == "laptop") {
 
-            window.location.href = "search.html";
+            window.location.href = "HTML/search.html";
 
         }
 
