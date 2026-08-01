@@ -78,6 +78,6 @@ search.addEventListener("keypress", function (e) {
 
 document.querySelector(".icons span").addEventListener("click", function () {
 
-    window.location.href = "login.html";
+    window.location.href = "HTML/login.html";
 
 });
